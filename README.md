@@ -1,4 +1,4 @@
-# Bharat-Intern-Task
+# Bharat-Intern-Task-1
 
 This is a simple calculator created using Java AWT(Abstract Window ToolKit),Java Events.
 
